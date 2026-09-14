@@ -1,1 +1,1 @@
-hello="Hello";appsec="appsec";world="world";print(hello+" "+appsec+" "+world)
+name=input("Enter your name: ");print("Hello appsec world from @"+name)
